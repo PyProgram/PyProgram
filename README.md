@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science & Machine Learning.
 - 💞️ Hungry to learn new skills.
 - 📫 Reach me at harshal.works@pm.me / 7400352100
-- I wiuld love to contribute to any Linux Development and ML project if involved.
+- I would love to contribute to any Linux Development and ML project if involved.
 
 <!---
 PyProgram/PyProgram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
