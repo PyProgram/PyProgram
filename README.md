@@ -2,7 +2,7 @@
 - 👀 I’m interested in implimentation & develoment of Python & Linux skills.
 - 🌱 I’m currently learning Data Science & Machine Learning.
 - 💞️ Hungry to learn new skills.
-- 📫 Reach me at harshal.works@pm.me / 7400352100
+- 📫 Reach me at harshal.works@pm.me / +91 7400352100
 - I would love to contribute to any Linux Development and ML project if involved.
 
 <!---
